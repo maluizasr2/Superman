@@ -1,0 +1,84 @@
+body{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.secao-capa{
+    background-color: #4710c1;
+    color: white;
+    padding: 20px 0 20px 70px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    background-color: white;
+    color: #4710c1;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+}
+
+.divSinopse{
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.titulo-sinopse{
+    text-align: center;
+}
+
+.divDisponibilidade{
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+
+}
+
+.texto-disponibilidade{
+    padding-top: 50px;
+}
+
+.titulo-disponibilidade{
+    text-align: center;
+}
+
+.galeria{
+    display: flex;
+    overflow-x: scroll;
+    margin: 0 auto 20px auto;
+    width: 800px;
+}
+
+.galeria img{
+    width: 315px;
+    margin: 10px;
+}
+
+.imagem-sombra{
+    box-shadow: 10px 10px 10px #939393;
+}
+
+.foto-disponibilidade{
+    width: 100%;
+}
+
+.texto-galeria{
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.secao-final{
+    background-color: #4710c1;
+    color: white;
+    padding: 10px 0 20px 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
